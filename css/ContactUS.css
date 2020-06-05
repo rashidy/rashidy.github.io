@@ -1,0 +1,38 @@
+.BG
+{
+    background: #333 none repeat scroll 0% 0%;
+}
+.Sbutton{
+    margin-left: 40%;
+}
+.Bground
+{
+    height: 320px;
+    width: 100%;
+    background: #333 ;
+    color:#AAA;
+    padding-top: 20px;
+    padding-left:0px;
+    padding-right:85px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: -27px;
+    opacity: .1px;
+}
+p{
+    color:#AAA;
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.labeltop
+{
+    margin-left: 25px;
+    margin-top: 25px;
+}
+.fasel
+{
+    height: 90px;
+    background-color: #FFFFFF;
+    
+}
